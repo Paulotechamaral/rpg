@@ -2,7 +2,7 @@ Projeto de sistema de combate de rpg desenvolvido em Java, com foco na estrutura
 simulando um fluxo real de sistema back-end.
 
 Conceitos aplicados:
-Fila(Queue)
-Pilha(Stack)
-Listas
-Complexidade de algoritmos
+Fila(Queue), 
+Pilha(Stack), 
+Listas, 
+Complexidade de algoritmos.
